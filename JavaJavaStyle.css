@@ -1,0 +1,50 @@
+
+
+.container{
+    background-color: navy;
+    display: flex;
+    width: 1100px;
+    height: 660px;
+    margin-top: -20px;
+    padding-top: 10px;
+}
+
+h1{
+    color: rgba(230, 248, 253, 0.849);
+    background-color: red;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 15px;
+    width: 1080px;
+}
+
+h3{
+    color: rgba(230, 248, 253, 0.849);
+    }
+    
+.toolbox{
+    color: rgb(138, 255, 245);
+    background-color: rgb(65, 184, 214);
+    width: 200px;
+    height: 215px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.content{
+    color: rgba(230, 248, 253, 0.849);
+    background-color: rgba(0, 0, 0, 0.863);
+    width: 850px;
+    height: 580px;
+    border-radius: 15px;
+}
+
+#URL{
+    color: white;
+    background-color: grey;
+    padding: 15px;
+    border-radius: 15px;
+    margin-top: -55px;
+    width: 1070px;
+}
